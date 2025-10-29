@@ -4,7 +4,7 @@
     { "id": 2, "nome": "Maria Santos", "email": "maria@exemplo.com", "labels": ["postos", "produtos"] }
   ],
   "gerentes": [
-    { "id": 1, "nome": "Ana Costa", "email": "ana@exemplo.com", "labels": ["vendas", "atendimento"] },
-    { "id": 2, "nome": "Carlos Mendes", "email": "carlos@exemplo.com", "labels": ["estoque", "produtos"] }
+    { "id": 1, "nome": "Ana Costa", "email": "ana@exemplo.com", "telefone": "(11) 99999-9999", "labels": ["vendas", "atendimento"] },
+    { "id": 2, "nome": "Carlos Mendes", "email": "carlos@exemplo.com", "telefone": "(11) 88888-8888", "labels": ["estoque", "produtos"] }
   ]
 }
