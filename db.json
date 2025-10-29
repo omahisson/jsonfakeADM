@@ -1,31 +1,10 @@
-// GET /administradores
-[
-  { 
-    "id": 1, 
-    "nome": "João Silva", 
-    "email": "joao@exemplo.com",
-    "labels": ["postos", "gerentes", "funcionarios"]
-  },
-  { 
-    "id": 2, 
-    "nome": "Maria Santos", 
-    "email": "maria@exemplo.com",
-    "labels": ["postos", "produtos"]
-  }
-]
-
-// GET /gerentes
-[
-  { 
-    "id": 1, 
-    "nome": "Ana Costa", 
-    "email": "ana@exemplo.com",
-    "labels": ["vendas", "atendimento"]
-  },
-  { 
-    "id": 2, 
-    "nome": "Carlos Mendes", 
-    "email": "carlos@exemplo.com",
-    "labels": ["estoque", "produtos"]
-  }
-]
+{
+  "administradores": [
+    { "id": 1, "nome": "João Silva", "email": "joao@exemplo.com", "labels": ["postos", "gerentes", "funcionarios"] },
+    { "id": 2, "nome": "Maria Santos", "email": "maria@exemplo.com", "labels": ["postos", "produtos"] }
+  ],
+  "gerentes": [
+    { "id": 1, "nome": "Ana Costa", "email": "ana@exemplo.com", "labels": ["vendas", "atendimento"] },
+    { "id": 2, "nome": "Carlos Mendes", "email": "carlos@exemplo.com", "labels": ["estoque", "produtos"] }
+  ]
+}
