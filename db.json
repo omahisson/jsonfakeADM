@@ -1,22 +1,10 @@
 {
-    "administradores": [
-        { 
-            "id": 1, 
-            "nome": "João Silva", 
-            "email": "joao@exemplo.com",
-            "labels": ["postos", "gerentes", "funcionarios"]
-        },
-        { 
-            "id": 2, 
-            "nome": "Maria Santos", 
-            "email": "maria@exemplo.com",
-            "labels": ["postos", "produtos"]
-        },
-        { 
-            "id": 3, 
-            "nome": "Pedro Oliveira", 
-            "email": "pedro@exemplo.com",
-            "labels": ["gerentes"]
-        }
-    ]
+  "administradores": [
+    { "id": 1, "nome": "João Silva", "email": "joao@exemplo.com", "labels": ["postos", "gerentes", "funcionarios"] },
+    { "id": 2, "nome": "Maria Santos", "email": "maria@exemplo.com", "labels": ["postos", "produtos"] }
+  ],
+  "gerentes": [
+    { "id": 1, "nome": "Ana Costa", "email": "ana@exemplo.com", "labels": ["vendas", "atendimento"] },
+    { "id": 2, "nome": "Carlos Mendes", "email": "carlos@exemplo.com", "labels": ["estoque", "produtos"] }
+  ]
 }
