@@ -8,8 +8,8 @@
     { "id": 2, "nome": "Carlos Mendes", "email": "carlos@exemplo.com", "telefone": "(11) 88888-8888", "labels": ["Posto Ipiranga Vila", "Posto BR Rodovia"] }
   ],
   "funcionarios": [
-    { "id": 1, "nome": "Roberto Alves", "email": "roberto@exemplo.com", "telefone": "(11) 77777-7777", "labels": ["Posto Shell Centro"] },
-    { "id": 2, "nome": "Juliana Souza", "email": "juliana@exemplo.com", "telefone": "(11) 66666-6666", "labels": ["Posto Ipiranga Vila", "Posto BR Rodovia"] },
-    { "id": 3, "nome": "Felipe Torres", "email": "felipe@exemplo.com", "telefone": "(11) 55555-5555", "labels": ["Posto BR Rodovia"] }
+    { "id": 1, "nome": "Pedro Oliveira", "cpf": "12345678900", "labels": ["Posto Shell Centro"] },
+    { "id": 2, "nome": "Juliana Souza", "cpf": "98765432100", "labels": ["Posto Ipiranga Vila"] },
+    { "id": 3, "nome": "Felipe Torres", "cpf": "11122233344", "labels": ["Posto BR Rodovia"] }
   ]
 }
